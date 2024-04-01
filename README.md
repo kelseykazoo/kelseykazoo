@@ -18,6 +18,8 @@
 
 
 
+<a href="https://app.daily.dev/kelseykazoo"><img src="https://api.daily.dev/devcards/v2/X8dXXZnlnp1XeMEa3Pz13.png?type=default&r=1k2" width="356" alt="Kelsey Hill's Dev Card"/></a>
+
 
 <h2>My Stats:🏆</h2>
 
