@@ -20,7 +20,8 @@
 
 <h2>My Stats:🏆</h2>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kelseykazoo&size_weight=0.5&count_weight=0.5&layout=compact&theme=catppuccin_mocha) ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kelseykazoo&show_icons=true&theme=catppuccin_mocha) 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kelseykazoo&layout=compact&theme=catppuccin_mocha&size_weight=0.2&count_weight=0.8&hide=Shell,PowerShell)
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kelseykazoo&show_icons=true&theme=catppuccin_mocha) 
 
 <h2>Tech&Tools:💻</h2>
 
