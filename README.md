@@ -10,7 +10,7 @@
 
       def __init__(self):
         self.name = "Kelsey Hill"
-        self.role = "Future Software Engineer"
+        self.role = "Software Engineer"
         self.language_spoken = ["en_US"]
 
       def say_hi(self):
